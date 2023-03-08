@@ -33,7 +33,37 @@ My Trybe Projects Repository organized by modules: Fundamentals, Front-end, Back
 
 <details>
 <summary><h1>Front-end</h1></summary>
-:construction: ::construction_worker: :construction:
+
+### 📌 [Shopping Cart]()
+- :construction: ::construction_worker: :construction:
+
+### 📌 [Solar System](https://github.com/arthur-debiasi/trybe-front-end-solar-system)
+- :construction: ::construction_worker: :construction:
+
+### 📌 [Tryunfo](https://github.com/arthur-debiasi/trybe-front-end-tryunfo)
+- :construction: ::construction_worker: :construction:
+
+### 📌 [TrybeTunes](https://github.com/arthur-debiasi/trybe-front-end-trybetunes)
+- :construction: ::construction_worker: :construction:
+
+### 📌 [FrontEnd Online Store](https://github.com/arthur-debiasi/trybe-front-end-frontend-online-store)
+- :construction: ::construction_worker: :construction:
+
+### 📌 [React Testint Library](https://github.com/arthur-debiasi/trybe-front-end-react-testing-library)
+- :construction: ::construction_worker: :construction:
+
+### 📌 [Trybe Wallet](https://github.com/arthur-debiasi/trybe-front-end-trybewallet)
+- A wallet for personal expenses management built with Javascript, React and React Redux.
+
+### 📌 [Trivia React Redux](https://github.com/arthur-debiasi/trybe-front-end-trivia-react-redux)
+- Trivia game app developed with React and React Redux ([Page](https://trybe-project-trivia-react-redux.vercel.app/))
+
+### 📌 [StarWars Planets Search](https://github.com/arthur-debiasi/trybe-front-end-starwars-planet-search)
+- :construction: ::construction_worker: :construction:
+
+### 📌 [Recipes App](https://github.com/arthur-debiasi/trybe-front-end-recipes-app)
+- React App for drinks and meals recipes built wit Javascript and React, using React Hooks and Context API. ([page](https://recipes-app-debiasi.vercel.app/))
+
 </details>
 
 <details>
