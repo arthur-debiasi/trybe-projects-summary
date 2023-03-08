@@ -38,10 +38,10 @@ My Trybe Projects Repository organized by modules: Fundamentals, Front-end, Back
 - :construction: ::construction_worker: :construction:
 
 ### 📌 [Solar System](https://github.com/arthur-debiasi/trybe-front-end-solar-system)
-- :construction: ::construction_worker: :construction:
+- React App about Planets and Missions built with Javascript and React. ([Page](https://solar-system-trybe.vercel.app/))
 
 ### 📌 [Tryunfo](https://github.com/arthur-debiasi/trybe-front-end-tryunfo)
-- A Top Trumps like game app built with React.
+- A Top Trumps like game app built with Javascript and React.
 
 ### 📌 [TrybeTunes](https://github.com/arthur-debiasi/trybe-front-end-trybetunes)
 - :construction: ::construction_worker: :construction:
