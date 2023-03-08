@@ -41,7 +41,7 @@ My Trybe Projects Repository organized by modules: Fundamentals, Front-end, Back
 - :construction: ::construction_worker: :construction:
 
 ### 📌 [Tryunfo](https://github.com/arthur-debiasi/trybe-front-end-tryunfo)
-- :construction: ::construction_worker: :construction:
+- A Top Trumps like game app built with React.
 
 ### 📌 [TrybeTunes](https://github.com/arthur-debiasi/trybe-front-end-trybetunes)
 - :construction: ::construction_worker: :construction:
