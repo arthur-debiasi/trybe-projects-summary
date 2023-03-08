@@ -31,3 +31,18 @@ My Trybe Projects Repository organized by modules: Fundamentals, Front-end, Back
 
 </details>
 
+<details>
+<summary><h1>Front-end</h1></summary>
+:construction: ::construction_worker: :construction:
+</details>
+
+<details>
+<summary><h1>Back-end</h1></summary>
+:construction: ::construction_worker: :construction:
+</details>
+
+<details>
+<summary><h1>Computer Science</h1></summary>
+:construction: ::construction_worker: :construction:
+</details>
+
