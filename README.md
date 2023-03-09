@@ -68,7 +68,34 @@ My Trybe Projects Repository organized by modules: Fundamentals, Front-end, Back
 
 <details>
 <summary><h1>Back-end</h1></summary>
-:construction: ::construction_worker: :construction:
+
+### 📌 [Docker Todo List](https://github.com/arthur-debiasi/trybe-back-end-docker-todo-list)
+- :construction: ::construction_worker: :construction:
+
+### 📌 [All for One](https://github.com/arthur-debiasi/trybe-back-end-all-for-one)
+- :construction: ::construction_worker: :construction:
+
+### 📌 [One for All](https://github.com/arthur-debiasi/trybe-back-end-one-for-all)
+- :construction: ::construction_worker: :construction:
+
+### 📌 [Talker Manager](https://github.com/arthur-debiasi/trybe-back-end-talker-manager)
+- :construction: ::construction_worker: :construction:
+
+### 📌 [Store Manager](https://github.com/arthur-debiasi/trybe-back-end-store-manager)
+- :construction: ::construction_worker: :construction:
+
+### 📌 [Blogs API](https://github.com/arthur-debiasi/trybe-back-end-blogs-api)
+- :construction: ::construction_worker: :construction:
+
+### 📌 [Trybesmith](https://github.com/arthur-debiasi/trybe-back-end-trybesmith)
+- :construction: ::construction_worker: :construction:
+
+### 📌 [Trybers and Dragons](https://github.com/arthur-debiasi/trybe-back-end-trybers-and-dragons)
+- :construction: ::construction_worker: :construction:
+
+### 📌 [Trybe Futebol Clube](https://github.com/arthur-debiasi/trybe-back-end-trybe-futebol-clube)
+- :construction: ::construction_worker: :construction:
+
 </details>
 
 <details>
